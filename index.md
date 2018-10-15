@@ -1,5 +1,3 @@
-# Erasmus+ - Build a website from scratch
-
 ### Project Code & Presentations: 
 
 [https://github.com/Scoala-Gimnaziala-Sfanta-Treime](https://github.com/Scoala-Gimnaziala-Sfanta-Treime)
