@@ -1,25 +1,37 @@
-## Welcome
+# Erasmus+ - Build a website from scratch
 
-Project Code & Presentations: 
+### Project Code & Presentations: 
 
 [https://github.com/Scoala-Gimnaziala-Sfanta-Treime](https://github.com/Scoala-Gimnaziala-Sfanta-Treime)
 
-School Website: 
+### School Website: 
 
 [https://www.scoala160.ro/](https://www.scoala160.ro/)
 
-Team 1 Website: tbd
+### Team 1 Website: 
 
-Team 2 Website: tbd
+tbd
 
-Team 3 Website: tbd
+### Team 2 Website: 
 
-Team 4 Website: tbd
+tbd
 
-Team 5 Website: tbd
+### Team 3 Website: 
 
-Demo Website: tbd
+tbd
 
-Independent Trainer:
+### Team 4 Website: 
+
+tbd
+
+### Team 5 Website: 
+
+tbd
+
+### Demo Website: 
+
+tbd
+
+### Independent Trainer:
 
 [LinkedIn](https://www.linkedin.com/in/luciannitescu/) / @LucianNitescu / [Facebook](https://www.facebook.com/nitescu.lucian)
