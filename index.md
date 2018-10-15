@@ -34,4 +34,4 @@ tbd
 
 ### Independent Trainer:
 
-[LinkedIn](https://www.linkedin.com/in/luciannitescu/) / @LucianNitescu / [Facebook](https://www.facebook.com/nitescu.lucian)
+Lucian Nitescu / [LinkedIn](https://www.linkedin.com/in/luciannitescu/) / @LucianNitescu / [Facebook](https://www.facebook.com/nitescu.lucian)
