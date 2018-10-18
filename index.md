@@ -28,7 +28,7 @@
 
 ### Demo Website: 
 
-[https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team1](https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team6)
+[https://github.com/Scoala-Gimnaziala-Sfanta-Treime/demo](https://github.com/Scoala-Gimnaziala-Sfanta-Treime/demo)
 
 ### Independent Trainer:
 
