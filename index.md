@@ -8,27 +8,27 @@
 
 ### Team 1 Website: 
 
-tbd
+[https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team1](https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team1)
 
 ### Team 2 Website: 
 
-tbd
+[https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team2](https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team2)
 
 ### Team 3 Website: 
 
-tbd
+[https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team3](https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team3)
 
 ### Team 4 Website: 
 
-tbd
+[https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team4](https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team4)
 
 ### Team 5 Website: 
 
-tbd
+[https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team5](https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team5)
 
 ### Demo Website: 
 
-tbd
+[https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team1](https://github.com/Scoala-Gimnaziala-Sfanta-Treime/team6)
 
 ### Independent Trainer:
 
